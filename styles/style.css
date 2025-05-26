@@ -5,7 +5,7 @@
 }
 
 body{
-	background-color: aliceblue;
+	background-color: rgb(148, 255, 201);
 }
 
 header{
@@ -14,6 +14,7 @@ header{
 }
 
 h1{
+	font-size: 45px;
 }
 
 .logo{
@@ -30,7 +31,7 @@ h1{
 
 form{
 	padding: 30px;
-	border: 2px dashed #4bb9d8;
+	border: 2px dashed #ec44b1;
 }
 
 .rojo{
