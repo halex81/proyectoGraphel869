@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: aliceblue;
+}
+
+header{
+	margin: 0;
+	padding: 20px;
+}
+
+h1{
+}
+
+.logo{
+	width: 300px;
+	background-color: #5ed84b;
+	margin: 20px;
+	border:1px solid #333;
+	padding: 40px;
+}
+
+.logo img{
+	width: 100%;
+}
+
+form{
+	padding: 30px;
+	border: 2px dashed #4bb9d8;
+}
+
+.rojo{
+	background-color: red;
+}
